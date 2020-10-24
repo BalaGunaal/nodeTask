@@ -1,0 +1,25 @@
+
+body {
+  background-color: #E8ECEF;
+  padding-top: 5rem;
+  padding-left: 5rem;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.secret-text{
+  background-color: #84a9ac;
+  padding:2rem;
+}
+.check{
+  color:orange;
+}
